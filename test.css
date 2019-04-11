@@ -1,0 +1,200 @@
+.container {
+    margin-top: 20px;
+}
+
+.topicHeader {
+    text-align: center;
+    border-bottom: 3px solid black;
+    width: 100%;
+    margin: 20px auto 5px;
+}
+
+.box {
+    width: 500px;
+    border: 1px solid black;
+    padding-top: 10px!important;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.textCenter {
+    justify-content: center;
+    align-items: center;
+}
+
+.boxSubjects {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.textTop {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto 5px;
+}
+
+.borderFt {
+    text-align: center;
+    border: 2px dotted black;
+    width: 100%;
+    margin: 20px auto 5px;
+}
+
+.table {
+    width: 200%;
+}
+
+.body {
+    font-size: 20px;
+}
+
+.tranform {
+    transform: rotate(270deg);
+}
+
+.blog {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.topicBlog {
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+.contentBlog {
+    padding-left: 15px;
+    padding-top: 2%;
+    
+    
+}
+.content {
+    padding-left: 15px;
+    text-align: center;
+    
+}
+
+
+.lineCutWrapper {
+    display: flex;
+    align-items: center;
+}
+
+.lineCut {
+    text-align: center;
+    border: 2px dashed black;
+    width: 1100px;
+    margin-left: 10px;
+}
+
+.blogCenter {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1120;
+}
+
+.contentCenter {
+    text-align: center;
+}
+
+.sign {
+    text-align: left;
+    margin-left: 15%;
+}
+
+.imgFrame {
+    border: 1px solid black;
+    width: 115px;
+    height: 150px;
+    
+}
+
+.posFrame {
+    position: absolute;
+    right: 15px;
+    padding-right: 5%;
+}
+
+.labelHeader {
+    text-align: center;
+}
+
+.partFrame {
+    font-size: 12px;
+}
+
+.imgHeader {
+    text-align: center;
+}
+
+.leftCorner {
+    float: left;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.rightCorner {
+    float: right;
+}
+
+.tbBorder {
+    border-collapse: collapse;
+}
+
+.tbBorder {
+ 
+    border: 1px solid black;
+    padding: 10px
+}
+.colBorder{
+
+    border: 1px solid black;
+    padding: 10px
+}
+
+.imgFrameWithNumber {
+    border: 1px solid black;
+    height: 160px;
+    width: 149px;
+    position: absolute;
+}
+
+.numberWrapper {
+    display: flex;
+}
+
+.frameWrapper {
+    text-align: center;
+}
+
+.num {
+    border: 1px solid black;
+    flex-grow: 1;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.contentWrapper {
+    margin-left:auto;
+}
+
+.from {
+    padding-left: 15px;
+}
+
+.fromText {
+    padding-left: 10px;
+}
+.form-check-label {
+    margin-bottom: 0;
+    padding: 5px;
+}
+.frombox{
+    text-align: left;
+    padding: 10px;
+}
